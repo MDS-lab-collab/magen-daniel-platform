@@ -24,6 +24,14 @@ Access is planned through a **time-limited paid usage licence, lasting a few mon
 
 The exact fee, access period, available capabilities and participation terms will be announced before enrolment. Participants will have an opportunity to evaluate the available workflow and provide feedback during the agreed period.
 
+## Post-Pilot Funding Plans
+
+Following completion and review of the pilot, MDS plans to assess a framework for participation by potential investors, including individual investors and the possibility of participation by members of the public where legally permitted.
+
+Any future participation will be subject to legal review in India and the relevant investor jurisdictions, applicable eligibility requirements, MDS approval and formal investment documentation. The funding structure, any fundraising cap and participation limits have not yet been determined.
+
+Investment participation is not currently open. This update describes a future business intention; it does not announce an approved public offering or invite investment commitments or payments.
+
 ## MDS Method and Ownership
 
 The proprietary MDS method described in this project belongs to MDS and its inventor, who is the owner of MDS. The method is being developed as an MDS commercial offering.
