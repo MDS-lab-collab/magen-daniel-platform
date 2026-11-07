@@ -14,6 +14,7 @@ A public overview of MDS engineering services, embedded electronics, IoT and con
 
 | Project | Public status | Overview |
 |---|---|---|
+| [MDS KiCad AI](projects/mds-kicad-ai/README.md) | Active development; paid pilot planned | KiCad-based engineering analysis and local AI assistance. Possible pilot around 21 November 2026, subject to readiness; low-fee, time-limited access planned for students, engineers and companies. |
 | [PAYPHONE](projects/payphone/README.md) | Engineering development completed | A SIM-connected communication terminal designed for university and campus environments, with custom PCB and embedded design developed in-house by MDS. |
 | GLM | Public summary under review | Brief non-confidential overview will be added after internal IP review. |
 | GLIR | Public summary under review | Brief non-confidential overview will be added after internal IP review. |
@@ -21,7 +22,7 @@ A public overview of MDS engineering services, embedded electronics, IoT and con
 
 ## Confidentiality
 
-This repository contains public portfolio information only. It does **not** publish schematics, Gerber files, PCB layouts, BOMs, source code, firmware, manufacturing files, customer information, commercial terms or other confidential intellectual property.
+This repository contains public portfolio information only. It does **not** publish schematics, Gerber files, PCB layouts, BOMs, source code, firmware, manufacturing files, customer information, confidential commercial terms or other confidential intellectual property.
 
 Website: [magen-danielsystems.com](https://magen-danielsystems.com)  
 Contact: [contact@magen-danielsystems.com](mailto:contact@magen-danielsystems.com)
