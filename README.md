@@ -4,11 +4,11 @@ Public, non-confidential project summaries from **Magen Daniel Systems LLP (MDSâ
 
 MDS develops embedded systems, custom electronics, PCB designs, firmware, IoT products and complete engineering prototypes.
 
-## Company Portfolio
+## Product & Engineering Catalog
 
-[**View / Download MDS Engineering & Product Portfolio 2026 (PDF)**](MDS_Company_Portfolio_2026.pdf)
+[**View / Download MDS Product & Engineering Catalog 2026 (PDF)**](MDS_Product_and_Engineering_Catalog_2026.pdf)
 
-A public overview of MDS engineering services, embedded electronics, IoT and connected-product development. This portfolio is non-confidential and suitable for sharing with prospective clients and commercial partners.
+A public overview of MDS products and engineering services across connected mobility, fleet, IoT, embedded systems, edge AI and software. This catalog is non-confidential and suitable for sharing with prospective clients and commercial partners.
 
 ## Projects
 
